@@ -1,0 +1,197 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #b9ac92;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  margin: 0 ;
+  font-weight: bold;
+}
+
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.h2_label{
+
+  margin: 40px auto ;
+}
+
+
+img {
+  border-radius: 50%;
+  width: 25%;
+  height: 25%;
+}
+.level1 {
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top: 25rem;
+  width: 100%;
+  height:530px;
+
+}
+
+.DS{
+  position: absolute;
+  top: 10%;
+  right:38%;
+}
+
+.ML{
+  position: absolute;
+  top: 29%;
+  right: 65%;
+}
+.DA{
+  position: absolute;
+  top: 29%;
+  left: 65%;
+}
+.BD {
+  position: absolute;
+  top : 63%;
+  right: 57%;
+}
+.WD{
+  display: block;
+  position: absolute;
+  top : 63%;
+  left: 57%;
+}
+
+.level2 {
+  margin: 4rem auto 4rem auto;
+}
+
+
+.invite{
+  margin-top : 30px;
+}
+.profile {
+  border-radius: 50%;
+  width :10%;
+  height:5%;
+
+}
+
+
+.edu_content{
+  width: 50%;
+  margin : 50px auto 140px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.pg_edu{
+  width: 22%;
+  float: right;
+
+}
+.post_edu{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+
+}
+.grad_edu{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 0;
+}
+.parag{
+  font-weight: normal;
+  font-size: 20px;
+}
+.parag_cmp{
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+
+#Highlight {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.level4 {
+  margin: 40px auto;
+}
+.work{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto;
+}
+
+.cmp1{
+  width: 35%;
+  float: left;
+  margin-right: 40px;
+}
+.cmp2{
+  width: 35%;
+  float: right;
+  margin-right: 40px;
+
+}
+.details1{
+  width: 50%;
+  margin: 50px auto;
+  position: absolute;
+  left: 30%
+}
+
+.details2{
+  width: 50%;
+  margin: 50px auto;
+  position: absolute;
+  left: 10%;
+  text-align: center;
+}
+.details3{
+  width: 50%;
+  margin: 50px auto;
+  position: absolute;
+  left:   50%;
+}
+
+.level5{
+  width: 50%;
+  margin: 50px auto 200px auto;
+  position: relative;
+}
+.prof-img-res{
+  width: 20%;
+}
+.prof-img{
+  width: 30%;
+  height: 30%;
+}
+.para_details{
+  margin: 20px 0;
+
+}
+.level6{
+  margin: 50px auto;
+}
